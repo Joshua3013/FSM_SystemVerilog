@@ -74,5 +74,5 @@ implementados en la placa.
 
 <img width="436" alt="image" src="https://github.com/Joshua3013/FSM_SystemVerilog/assets/161919875/b7f4ec32-89f1-4d8a-8526-c573d16a3a9f">
 
-DOCUMENTO EN PDF Y SIMULACIÓN EN EL SIGUIENTE LINK: https://drive.google.com/drive/folders/1p5g8VHNykO0cl4fq49l-Qn8iRILCalR1?usp=sharing
+DOCUMENTO EN PDF Y SIMULACIÓN DE LOGISIM EN EL SIGUIENTE LINK: https://drive.google.com/drive/folders/1p5g8VHNykO0cl4fq49l-Qn8iRILCalR1?usp=sharing
 VIDEO EN YOUTUBE DE LA DEMOSTRACIÓN EN EL SISGUIENTE LINK: https://youtu.be/6aysVPerclg 
