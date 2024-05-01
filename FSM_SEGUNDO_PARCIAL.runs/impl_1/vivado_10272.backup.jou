@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Tue Apr 30 17:51:46 2024
+# Process ID: 10272
+# Current directory: E:/PROYECTOS VIVADO/FSM_SEGUNDO_PARCIAL/FSM_SEGUNDO_PARCIAL.runs/impl_1
+# Command line: vivado.exe -log TOP_FSM.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source TOP_FSM.tcl -notrace
+# Log file: E:/PROYECTOS VIVADO/FSM_SEGUNDO_PARCIAL/FSM_SEGUNDO_PARCIAL.runs/impl_1/TOP_FSM.vdi
+# Journal file: E:/PROYECTOS VIVADO/FSM_SEGUNDO_PARCIAL/FSM_SEGUNDO_PARCIAL.runs/impl_1\vivado.jou
+# Running On: DESKTOP-0B0QBVQ, OS: Windows, CPU Frequency: 2400 MHz, CPU Physical cores: 2, Host memory: 12748 MB
+#-----------------------------------------------------------
+source TOP_FSM.tcl -notrace
